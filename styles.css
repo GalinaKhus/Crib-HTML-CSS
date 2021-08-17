@@ -1,0 +1,47 @@
+body {
+  font-family: "Gill Sans", sans-serif, monospace;
+  background-color: #e4e6e9;
+}
+h1 {
+  text-align: center;
+  padding: 30px auto 15px;
+}
+
+table {
+  width: 900px;
+  display: table;
+  margin: 30px auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  background-color: rgba(100, 149, 237, 25%);
+}
+
+td,
+th {
+  padding: 10px;
+  border: 1px solid black;
+}
+tr:hover {
+  background-color: rgba(137, 146, 146, 20%);
+}
+
+#teg {
+  color: rgb(100, 149, 237);
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}
+
+.menu {
+  font-weight: bolt;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  background-color: rgba(112, 217, 184, 50%);
+  text-align: center;
+}
+
+#decryption {
+  font-weight: bolt;
+}
